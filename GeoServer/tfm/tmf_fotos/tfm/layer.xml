@@ -1,0 +1,15 @@
+<layer>
+  <name>tfm</name>
+  <id>LayerInfoImpl--75ec491d:16d119f36da:-7f72</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--75ec491d:16d119f36da:-7ff9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--75ec491d:16d119f36da:-7f73</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
