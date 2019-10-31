@@ -1,9 +1,10 @@
 # Openlayers Flickr HeadMap
 Example about openlayers web map with Flickr API
+This project is my
 
 
 ## Video
-Read more in: [https://vimeo.com/370067041](https://vimeo.com/370067041)
+Video showing how this web map has been executed: [https://vimeo.com/370067041](https://vimeo.com/370067041)
 
 
 ## Report
