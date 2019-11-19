@@ -1,6 +1,7 @@
 # Openlayers Flickr HeadMap
-Example about openlayers web map with Flickr API
-This project is my
+Example about openlayers web map with Flickr API.
+
+This project is my Master's Thesis.
 
 
 ## Video
