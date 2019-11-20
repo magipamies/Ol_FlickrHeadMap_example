@@ -1,0 +1,20 @@
+{
+  "name": "mapa_tfm",
+  "version": "1.0.0",
+  "description": "Mapa pel treball final de master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "parcel tfm*.html",
+    "build": "parcel build --public-url . tfm*.html"
+  },
+  "author": "Magí Pàmies Sans",
+  "license": "ISC",
+  "dependencies": {
+    "ol": "^5.3.3",
+    "ol-layerswitcher": "^3.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
